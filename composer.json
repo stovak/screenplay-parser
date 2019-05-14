@@ -15,7 +15,7 @@
       "ext-zip": "*"
     },
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "Screenplay": "src/"
         }
     }
